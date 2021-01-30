@@ -1,0 +1,50 @@
+.image-item-20-px {
+    padding: 20px 0 20px 20px;
+}
+.ft-0-8-rem{
+    font-size: .8rem;
+}
+.text-black{
+    color: #000!important;
+}
+.font-weight-bold-600{
+    font-weight: 600!important;
+}
+.ft-0-9-rem{
+    font-size: .9rem;
+}
+.text-price{
+    color: #50d8af;
+    font-weight: 700;
+    font-size: 1.5rem;
+    margin-bottom: 0;
+}
+.btn-price:not(:disabled):not(.disabled).active, 
+.btn-price:not(:disabled):not(.disabled):active, 
+.show>.btn-price.dropdown-toggle {
+    color: #fff;
+    background-color: #0c2e8a;
+    border-color: #0c2e8a;
+}
+.btn-price:hover {
+    color: #fff;
+    background-color: #0c2e8a;
+    border-color: #0c2e8a;
+}
+.btn-price {
+    color: #0c2e8a;
+    border-color: #0c2e8a;
+    padding: 3px 20px;
+    font-size: .9rem;
+}
+.pt-60p{
+    padding-top: 60px!important;
+}
+.bg-section-1{
+    background-color: #fbfbfb;
+}
+.card-img-item{
+    height: 250px;
+    object-fit: contain;
+    width: auto;
+}
